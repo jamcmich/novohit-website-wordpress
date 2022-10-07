@@ -6,7 +6,7 @@
         <p>A single-page website designed for Novohit using WordPress and Elementor.</p>
     </div>
     <p align='center'>
-        <a href='#demo'>Live Demo</a> •
+        <a href='#live-demo'>Live Demo</a> •
         <a href='#features'>Features</a> •
         <a href='#technologies-used'>Technologies Used</a> •
         <a href='#screenshots'>Screenshots</a> •
@@ -18,13 +18,13 @@
 
 <!-- Live Demo -->
 
-### 🔍 Live Demo
+<h3 id="live-demo">🔍 Live Demo</h3>
 
 [https://www.novohit.com/](https://www.novohit.com/)
 
 <!-- Features -->
 
-### ✨ Features
+<h3 id="features">✨ Features</h3>
 
 -   Automatic and manual language localization to serve pages to American, Mexican, and Chilean audiences
 -   Responsive styling for mobile, tablet, and desktop
@@ -33,13 +33,13 @@
 
 <!-- Technologies -->
 
-### 🧰 Technologies Used
+<h3 id="technologies-used">🧰 Technologies Used</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=Elementor&logoColor=white)
 
 <!-- Screenshots -->
 
-### 👀 Screenshots
+<h3 id="screenshots">👀 Screenshots</h3>
 
 #### Landing Page
 
@@ -59,7 +59,7 @@
 
 <!-- Problem Solving -->
 
-### 🚧 Problem Solving
+<h3 id="problem-solving">🚧 Problem Solving</h3>
 
 #### Styling Conventions
 
@@ -115,7 +115,7 @@ A neat trick I learned throughout the development of this project is using Webpa
 
 <!-- Code Examples -->
 
-### 📸 Code Examples
+<h3 id="code-examples">📸 Code Examples</h3>
 
 #### Styling Conventions
 
@@ -164,7 +164,7 @@ A neat trick I learned throughout the development of this project is using Webpa
 
 <!-- Improvements -->
 
-### 🧪 Future Improvements
+<h3 id="future-improvement">🧪 Future Improvements</h3>
 
 -   **[Pagination](https://www.educba.com/pagination-in-javascript/)**
 -   "I'm Feeling Lucky" button takes the user to a random page
