@@ -11,7 +11,7 @@
         <a href='#features'>Features</a> •
         <a href='#technologies-used'>Technologies Used</a> •
         <a href='#screenshots'>Screenshots</a> •
-        <a href='#problem-solving'>Problem Solving</a> •
+        <a href='#research'>Research</a> •
         <a href='#code-examples'>Code Examples</a> •
         <a href='#future-improvements'>Future Improvements</a>
     </p>
@@ -27,7 +27,7 @@
 
 <h3 id="overview">📋 Overview</h3>
 
-Novohit is an enterprise software management company developing Enterprise Resource Planning (ERP) solutions for a variety of businesses in the hospitality industry. Located in Santiago, Chile, the company contracted me to redesign their outdated website, align incoming brand changes with existing products, and help build a foundation to enter into the U.S. market.
+Novohit is an enterprise software management company developing Enterprise Resource Planning (ERP) solutions for a variety of businesses in the hospitality industry. Located in Santiago, Chile, the company contracted me to redesign their outdated website, align incoming brand changes with existing products, and help build a foundation for their entry into the U.S. market.
 
 <!-- Features -->
 
@@ -78,15 +78,13 @@ Novohit is an enterprise software management company developing Enterprise Resou
 
 <!-- Problem Solving -->
 
-<h3 id="problem-solving">🚧 Problem Solving</h3>
+<h3 id="research">🔬 Research</h3>
 
-#### Styling Conventions
+#### Industry Analysis
 
-This project was my first exposure to using **[WindiCSS](https://windicss.org/guide/)** (an on-demand alternative to **[Tailwind](https://tailwindcss.com/docs/utility-first)**). Although Windi is convenient for styling elements on the fly, it suffers from the same issues as Tailwind: lack of legibility, inability to chain selectors, cluttering the DOM, etc. I realized the need for a consistent naming scheme after styling my first few React components and began researching a flexible solution.
+Since this was my first experience delving into the business space of ERP systems, I decided to do preliminary research before having an in-depth conversation with Novohit to set more transparent expectations...
 
-After looking into the issue, I discovered a CSS naming convention created by BEM for writing cleaner and more readable class names. You can read up on the methodology with examples in **[BEM's official guide](http://getbem.com/introduction/)**. These practices provided me with solutions for simplifying the DOM structure, creating descriptive CSS styles, and self-documenting my code.
-
-Reading up on the Windi documentation allowed me to **[incorporate Windi's utility classes in an external stylesheet](#styling-conventions-1)** and preserve my application's class naming schemes. Even though this method would invalidate one of the framework's biggest advantages, I was able to reduce the clutter of my JSX files and create a solution with BEM conventions in mind.
+![](assets/research-industry-analysis.jpg)
 
 #### Custom Tooltips
 
