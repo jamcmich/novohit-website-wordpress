@@ -164,7 +164,7 @@ A neat trick I learned throughout the development of this project is using Webpa
 
 <!-- Improvements -->
 
-<h3 id="future-improvement">🧪 Future Improvements</h3>
+<h3 id="future-improvements">🧪 Future Improvements</h3>
 
 -   **[Pagination](https://www.educba.com/pagination-in-javascript/)**
 -   "I'm Feeling Lucky" button takes the user to a random page
