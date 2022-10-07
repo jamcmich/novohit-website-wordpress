@@ -20,7 +20,7 @@
 
 <h3 id="live-demo">🔍 Live Demo</h3>
 
-[https://www.novohit.com/](https://www.novohit.com/)
+<a href="https://www.novohit.com/" target="_blank">https://www.novohit.com/</a>
 
 <!-- Features -->
 
@@ -56,6 +56,18 @@
 #### Company Values
 
 ![](assets/company-values.jpg)
+
+#### Footer
+
+![](assets/footer.jpg)
+
+#### Support Page
+
+![](assets/page-support.jpg)
+
+#### Contact Page
+
+![](assets/page-contact.jpg)
 
 <!-- Problem Solving -->
 
