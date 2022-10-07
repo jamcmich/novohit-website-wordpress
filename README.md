@@ -7,6 +7,7 @@
     </div>
     <p align='center'>
         <a href='#live-demo'>Live Demo</a> •
+        <a href='#overview'>Overview</a> •
         <a href='#features'>Features</a> •
         <a href='#technologies-used'>Technologies Used</a> •
         <a href='#screenshots'>Screenshots</a> •
@@ -22,6 +23,12 @@
 
 <a href="https://www.novohit.com/" target="_blank">https://www.novohit.com/</a>
 
+<!-- Overview -->
+
+<h3 id="overview">📋 Overview</h3>
+
+Novohit is an enterprise software management company developing Enterprise Resource Planning (ERP) solutions for a variety of businesses in the hospitality industry. Located in Santiago, Chile, the company contracted me to redesign their outdated website, align incoming brand changes with existing products, and help build a foundation to enter into the U.S. market.
+
 <!-- Features -->
 
 <h3 id="features">✨ Features</h3>
@@ -35,7 +42,7 @@
 
 <h3 id="technologies-used">🧰 Technologies Used</h3>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=Elementor&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=Elementor&logoColor=white)
 
 <!-- Screenshots -->
 
