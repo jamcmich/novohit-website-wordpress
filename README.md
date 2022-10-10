@@ -82,21 +82,31 @@ Novohit is an enterprise software management company developing Enterprise Resou
 
 #### Industry Analysis
 
-Since this was my first experience delving into the business space of ERP systems, I decided to do preliminary research before having an in-depth conversation with Novohit to set more transparent expectations...
+Since this was my first experience delving into the business space of ERP systems, I wanted to do preliminary research before having an in-depth conversation with Novohit. Approaching the situation with pre-existing knowledge would help myself and the client set realistic expectations going forward.
+
+I spent a week familiarizing myself with the **who**, the **what**, and the **why** of enterprise systems.
+- **Who** is it designed for?
+- **What** is ERP?
+- **Why** do companies use it? etc.
 
 ![](assets/research-industry-analysis.jpg)
 
-#### Custom Tooltips
+#### Novohit Q&A
 
-Since React is a very flexible library, many developers turn to third-party solutions when it comes to certain features. For example, some components on Google's search page provide users with tooltips on hover and I needed a way to incorporate this functionality into my project.
+Following my initial research, I prepared a Q&A discussion with Novohit to:
+- define the project's timeline
+- generate ideas for the website's design and user experience
+- learn more about the company's product and target audience
 
-**[React Tooltip](https://github.com/wwayne/react-tooltip)** is a library with almost 3k stars on GitHub. Many developers rely on external solutions such as this one assuming the library will be well maintained and up-to-date. Unfortunately, myself and many others were running into **[compatibility issues between React Tooltip and React 18](https://github.com/wwayne/react-tooltip/issues/777)**. The repository had been struggling to find a maintainer and likely wouldn't be updated for the new version of React anytime soon.
+This was an introspective exercise to help me understand Novohit's vision and resolve future concerns in hindsight.
 
-I decided to create **[a simple, reusable tooltip system](#custom-tooltips-1)** that complimented my project instead of relying on the inconsistencies of an external library. This solution was lightweight and allowed me to wrap icons within my `<Tooltip />` component and create custom tooltip styles.
+![](assets/research-q-and-a.jpg)
 
-#### Data Fetching
+#### User Research
 
-For this application, we only need to service GET requests from the API. Fetching data in React is fairly straightforward using Async/Await and Axios (see **[Data Fetching code snippet](#data-fetching-1)**). The real challenge is distributing the returned data across a React project between parent and child components. To overcome this obstacle we can use **[React Context](#react-context)**.
+The previously mentioned Q&A only revealed a partial understanding of Novohit's expectations as a company. I needed more feedback from customers and users themselves to understand how the company's audience felt about their website.
+
+![](assets/research-user-surveys.jpg)
 
 #### React Context
 
