@@ -33,6 +33,8 @@
 
 Novohit is an enterprise software management company developing Enterprise Resource Planning (ERP) solutions for a variety of businesses in the hospitality industry. Located in Santiago, Chile, the company contracted me to redesign their outdated website, align incoming brand changes with existing products, and help build a foundation for their entry into the U.S. market.
 
+![](assets/project-overview.jpg)
+
 <!-- Features -->
 
 <h3 id="features">✨ Features</h3>
@@ -89,18 +91,20 @@ Novohit is an enterprise software management company developing Enterprise Resou
 Since this was my first experience delving into the business space of ERP systems, I wanted to do preliminary research before having an in-depth conversation with Novohit. Approaching the situation with pre-existing knowledge would help myself and the client set realistic expectations going forward.
 
 I spent a week familiarizing myself with the **who**, the **what**, and the **why** of enterprise systems.
-- **Who** is it designed for?
-- **What** is ERP?
-- **Why** do companies use it? etc.
+
+-   **Who** is it designed for?
+-   **What** is ERP?
+-   **Why** do companies use it? etc.
 
 ![](assets/research-industry-analysis.jpg)
 
 #### Novohit Q&A
 
 Following my initial research, I prepared a Q&A discussion with Novohit to:
-- define the project's timeline
-- generate ideas for the website's design and user experience
-- learn more about the company's product and target audience
+
+-   define the project's timeline
+-   generate ideas for the website's design and user experience
+-   learn more about the company's product and target audience
 
 This was an introspective exercise to help me understand Novohit's vision and resolve future concerns in hindsight.
 
@@ -128,11 +132,17 @@ The final step in my research process was a simple competitive analysis of exist
 
 The below image represents my competitor research and includes observations about other sites' user interfaces and experience.
 
-![](assets/competitive-analysis.png)
+![](assets/competitive-analysis-0.75x.png)
 
 <!-- plan -->
 
 <h3 id="plan">📅 Plan</h3>
+
+Following the project's research phase, it was time to focus on user experience. My initial introspection with Novohit helped to identify two key objectives that influenced the proposal pictured below — to be accessibile and approachable.
+
+Novohit wanted more customer outreach to users on tablets and mobile phones, as well as a design that would assist new customers with finding a product for their specific use case. This would assure existing clients could find the information they need while helping new clients identify useful services that Novohit provides.
+
+![](assets/novohit-proposal-user-flow-0.5x.png)
 
 <!-- create -->
 
@@ -154,13 +164,19 @@ The below image represents my competitor research and includes observations abou
 
 Preview of Novohit's old website.
 
-![](assets/sitemap-novohit-old.png)
+![](<assets/sitemap-novohit-old%20(0.5x).png>)
 
 <h4 id="sitemap-novohit-new">Novohit Sitemap (New)</h4>
 
 Preview of a proposed sitemap revision.
 
 ![](assets/sitemap-novohit-new.png)
+
+<h4>Novohit Landing Page (Old)</h4>
+
+Preview of Novohit's previous landing page.
+
+![](assets/novohit-old-landing-page-analysis.png)
 
 <h4>Novohit Services</h4>
 
