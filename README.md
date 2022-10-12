@@ -40,8 +40,9 @@
             <li>
                 <a href="#plan">Plan</a>
                 <ul>
-                    <li><a href="#user-flow-proposal">User Flow (Proposal)</a></li>
-                    <li><a href="#wireframe">Wireframe</a></li>
+                    <li><a href="#user-flow">User Flow</a></li>
+                    <li><a href="#prototype-iteration-1">Prototype (Iteration 1)</a></li>
+                    <li><a href="#prototype-iteration-2">Prototype (Iteration 2)</a></li>
                 </ul>
             </li>
             <li><a href="#design">Design</a></li>
@@ -208,19 +209,39 @@ Working with limited resources, I drafted a Google Survey that introduced respon
 
 <h3 id="plan">📅 Plan</h3>
 
-<h4 id="user-flow-proposal">User Flow (Proposal)</h4>
+<!-- User Flow (Proposal) -->
 
-Following the project's research phase, it was time to focus on user experience. My initial introspection with Novohit helped to identify two key objectives that influenced the proposal pictured below — to be accessible and approachable.
+<h4 id="user-flow">User Flow</h4>
+
+Following the project's research phase, it was time to focus on the user experience. My initial introspection with Novohit helped to identify two key objectives that influenced the proposal pictured below — to be accessible and approachable.
 
 Novohit wanted more customer outreach to users on tablets and mobile phones, as well as a design that would assist new customers with finding a product for their specific use case. This would ensure existing clients could find the information they needed while helping new clients identify useful services that Novohit offers.
 
 <blockquote><b>Note:</b> Some features, such as the "ERP Advisor", did not make it to production either due to time, priority, or financial constraints.</blockquote>
 
-<img src="assets/novohit-proposal-user-flow-min.png" alt="user flow (proposal)" />
+<img src="assets/novohit-proposal-user-flow-min.png" alt="user flow" />
 
-<img src="assets/sitemap-novohit-new-min.jpg" alt="Novohit sitemap (proposal)" />
+<img src="assets/sitemap-novohit-new-min.jpg" alt="Novohit sitemap" />
 
-<h4 id="wireframe">Wireframe</h4>
+<!-- Prototype (Iteration 1) -->
+
+<h4 id="prototype-iteration-1">Prototype (Iteration 1)</h4>
+
+<p>Pictured below is a comparison between the prototype and mockup designs of my proposed design for Novohit's new website. These designs would soon change in favor of a second, improved iteration that adopts a more traditional style.</p>
+
+<div>
+    <img src="assets/novohit-website-prototype-min.jpg" alt="single-page application prototype" />
+    <img src="assets/novohit-website-mockup-min.jpg" alt="single-page application mockup (iteration 1)" />
+</div>
+
+<!-- Prototype (Iteration 2) -->
+
+<h4 id="prototype-iteration-2">Prototype (Iteration 2)</h4>
+
+<p>The second prototype integrated Novohit's brand alterations with my previous design. It was necessary to update the website's color scheme to align with the new branding standards, and decisions were made to adopt a traditional top navigation bar. Below is a snippet of the second prototype's landing page and a preview of the final <a href="#product-catalog"><b>product catalog</b></a> in its development phase.</p>
+
+<img src="assets/novohit-website-mockup-2-min.jpg" alt="single-page application mockup (iteration 2)" />
+<img src="assets/novohit-product-catalog-prototype-min.jpg" alt="product catalog prototype" />
 
 <!-- Create -->
 
