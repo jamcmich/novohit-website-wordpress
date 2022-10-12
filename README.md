@@ -118,7 +118,7 @@
 
 <!-- Research -->
 
-<h4 id="research">🔬 Research</h3>
+<h3 id="research">🔬 Research</h3>
 
 <!-- Industry Analysis -->
 
