@@ -1,45 +1,50 @@
 <!-- Heading -->
 
-<section>
-    <div align='left'>
-        <img src='assets/logo-novohit-blue-vertical.png' alt='Novohit logo' width='100' />
-        <h1>Novohit Website Redesign</h1>
-        <p>A single-page website designed for Novohit using WordPress and Elementor.</p>
-    </div>
-</section>
+<img src='assets/logo-novohit-blue-vertical.png' alt='Novohit logo' width='100' />
 
-<section>
-    <ul>
-        <li><a href="#live-demo">Live Demo</a></li>
-        <li><a href="#overview">Overview</a></li>
-        <li><a href="#features">Features</a></li>
-        <li><a href="#outcomes">Outcomes</a></li>
-        <li><a href="#technologies-used">Technologies Used</a></li>
-        <li>
-            <a href="#screenshots">Screenshots</a>
+<h1>Novohit Website Redesign</h1>
+
+<p>A single-page website designed for Novohit using WordPress and Elementor.</p>
+
+<!-- Table of Contents -->
+
+<ul>
+    <li><a href="#live-demo">Live Demo</a></li>
+    <li><a href="#overview">Overview</a></li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#outcomes">Outcomes</a></li>
+    <li><a href="#technologies-used">Technologies Used</a></li>
+    <li>
+        <a href="#screenshots">Screenshots</a>
+        <ul>
+            <li><a href="#landing-page">Landing Page</a></li>
+            <li><a href="#product-catalog">Product Catalog</a></li>
+            <li><a href="#company-services">Company Services</a></li>
+            <li><a href="#company-values">Company Values</a></li>
+            <li><a href="#footer">Footer</a></li>
+            <li><a href="#support-page">Support Page</a></li>
+            <li><a href="#contact-page">Contact Page</a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="#design-process">Design Process</a>
+        <ul>
+            <li><a href="#research">Research</a></li>
             <ul>
-                <li><a href="#landing-page">Landing Page</a></li>
-                <li><a href="#product-catalog">Product Catalog</a></li>
-                <li><a href="#company-services">Company Services</a></li>
-                <li><a href="#company-values">Company Values</a></li>
+                <li><a href="#industry-analysis">Industry Analysis</a></li>
+                <li><a href="#novohit-q-and-a">Novohit Q&A</a></li>
             </ul>
-        </li>
-        <li>
-            <a href="#design-process">Design Process</a>
-            <ul>
-                <li><a href="#research">Research</a></li>
-                <li><a href="#plan">Plan</a></li>
-                <li><a href="#design">Design</a></li>
-            </ul>
-        </li>
-        <li>
-            <a href="#additional-information">Additional Information</a>
-            <ul>
-                <li><a href="#code-examples">Code Snippets</a></li>
-            </ul>
-        </li>
-    </ul>
-</section>
+            <li><a href="#plan">Plan</a></li>
+            <li><a href="#design">Design</a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="#additional-information">Additional Information</a>
+        <ul>
+            <li><a href="#code-examples">Code Snippets</a></li>
+        </ul>
+    </li>
+</ul>
 
 <!-- Live Demo -->
 
@@ -51,98 +56,120 @@
 
 <h3 id="overview">📋 Overview</h3>
 
-Novohit is an enterprise software management company developing Enterprise Resource Planning (ERP) solutions for a variety of businesses in the hospitality industry. Located in Santiago, Chile, the company contracted me to redesign their outdated website, align incoming brand changes with existing products, and help build a foundation for their entry into the U.S. market.
+<p>Novohit is a software management company developing Enterprise Resource Planning (ERP) solutions for a variety of businesses in the hospitality industry. Located in Santiago, Chile, the company contracted me to redesign their outdated website, align incoming brand changes with existing products, and help build a foundation for their entry into the United States market.</p>
 
-![](assets/project-overview-min.jpg)
+<img src="assets/project-overview-min.jpg" alt="project overview" />
 
 <!-- Features -->
 
 <h3 id="features">✨ Features</h3>
 
--   Automatic and manual language localization to serve pages to American, Mexican, and Chilean audiences
--   Responsive styling for mobile, tablet, and desktop
--   Product catalog with optional filtering
--   Client scheduling system for in-person or virtual demos
+<ul>
+    <li>Automatic and manual language localization to serve pages to American, Mexican, and Chilean audiences</li>
+    <li>Responsive styling for mobile, tablet, and desktop</li>
+    <li>Product catalog with optional filtering</li>
+    <li>Client scheduling system for in-person or virtual demos</li>
+</ul>
+
+<!-- Outcomes -->
 
 <h3 id="Outcomes">📊 Outcomes</h3>
 
--   Increased page impressions by +2,000/month and implemented website translation services for thousands of monthly visitors
--   Designed modern accessibility features for 3,500 monthly mobile, tablet, and desktop users
--   Leveraged Figma to create a scalable design system for Novohit’s website
+<ul>
+    <li>Increased page impressions by +2,000/month and implemented website translation services for thousands of monthly visitors</li>
+    <li>Designed modern accessibility features for 3,500 monthly mobile, tablet, and desktop users</li>
+    <li>Leveraged Figma to create a scalable design system for Novohit’s website</li>
+</ul>
 
 <!-- Technologies -->
 
 <h3 id="technologies-used">🧰 Technologies Used</h3>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=Elementor&logoColor=white)
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
+<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=Elementor&logoColor=white" alt="Elementor" />
 
 <!-- Screenshots -->
 
-<h3 id="screenshots">👀 Screenshots</h3>
+<h3 id="screenshots">🖥️ Screenshots</h3>
 
-#### Landing Page
+<h4 id="landing-page">Landing Page</h4>
+<img src="assets/page-landing-min.jpg" alt="landing page" />
 
-![](assets/page-landing-min.jpg)
+<h4 id="product-catalog">Product Catalog</h4>
+<img src="assets/product-catalog-min.jpg" alt="product catalog" />
 
-#### Product Catalog
+<h4 id="company-services">Company Services</h4>
+<img src="assets/company-services-min.jpg" alt="company services" />
 
-![](assets/product-catalog-min.jpg)
+<h4 id="company-values">Company Values</h4>
+<img src="assets/company-values-min.jpg" alt="company values" />
 
-#### Company Services
+<h4 id="footer">Footer</h4>
+<img src="assets/footer-min.jpg" alt="footer" />
 
-![](assets/company-services-min.jpg)
+<h4 id="support-page">Support Page</h4>
+<img src="assets/page-support-min.jpg" alt="support page" />
 
-#### Company Values
+<h4 id="contact-page">Contact Page</h4>
+<img src="assets/page-contact-min.jpg" alt="contact page" />
 
-![](assets/company-values-min.jpg)
+<!-- Design Process -->
 
-#### Footer
+<h3 id="design-process">🧰 Design Process</h3>
 
-![](assets/footer-min.jpg)
+<!-- Research -->
 
-#### Support Page
+<h4 id="research">🔬 Research</h3>
 
-![](assets/page-support-min.jpg)
+<!-- Industry Analysis -->
 
-#### Contact Page
+<h5 id="industry-analysis">Industry Analysis</h5>
 
-![](assets/page-contact-min.jpg)
+<p>Since this was my first opportunity exploring the business space of ERP systems, I decided to do preliminary research before having an in-depth conversation with Novohit. Approaching the situation with pre-existing knowledge would create realistic expectations for the client and I moving forward.
 
-<!-- Problem Solving -->
+I spent a week familiarizing myself with the <b>who</b>, the <b>what</b>, and the <b>why</b> of enterprise systems.</p>
 
-<h3 id="research">🔬 Research</h3>
+<ul>
+    <li><b>Who</b> is it designed for?</li>
+    <li><b>What</b> is ERP?</li>
+    <li><b>Why</b> do companies use it? etc.</li>
+</ul>
 
-#### Industry Analysis
+<p>This information was pivotal during live discussions with Novohit's CEO regarding the design and user experience of their new website. Becoming well-versed in the company's roles, responsibilities, values, and expectations had helped me create a more meaningful experience for Novohit and its customers, and allowed me to embody professionalism as a UI/UX Developer.</p>
 
-Since this was my first experience delving into the business space of ERP systems, I wanted to do preliminary research before having an in-depth conversation with Novohit. Approaching the situation with pre-existing knowledge would help myself and the client set realistic expectations going forward.
+<img src="assets/research-industry-analysis-min.jpg" alt="industry analysis" />
 
-I spent a week familiarizing myself with the **who**, the **what**, and the **why** of enterprise systems.
+<!-- Novohit Q&A -->
 
--   **Who** is it designed for?
--   **What** is ERP?
--   **Why** do companies use it? etc.
+<h5 id="novohit-q-and-a">Novohit Q&A</h5>
 
-![](assets/research-industry-analysis-min.jpg)
+<p>Following my initial research, I prepared a Q&A discussion with Novohit to:</p>
 
-#### Novohit Q&A
+<ul>
+    <li>Define the project's timeline</li>
+    <li>Generate ideas for the website's design and user experience</li>
+    <li>Learn more about the company's product and target audience</li>
+</ul>
 
-Following my initial research, I prepared a Q&A discussion with Novohit to:
+<p>This was an introspective exercise to help me understand Novohit's vision and resolve future concerns in hindsight. My primary concern was feature creep and I wanted to define a set of guidelines before getting started. While there were many decisions made during the development phase, I created a future-proof system to coordinate with any priority shifts or newly generated ideas.
 
--   define the project's timeline
--   generate ideas for the website's design and user experience
--   learn more about the company's product and target audience
+For example, midway through the design phase of Novohit's product page, I was asked to align the company's assets with their recently updated branding scheme. At the time, I leveraged Figma as my design program of choice and was learning how to create scalable design systems while applying these practices during the project's development. I was able to apply variations and change global styles to update the existing designs in just a few clicks, instead of having to comb through every custom component and update styles individually.</p>
 
-This was an introspective exercise to help me understand Novohit's vision and resolve future concerns in hindsight.
+<img src="assets/research-q-and-a-min.jpg" alt="Novohit Q&A" />
 
-![](assets/research-q-and-a-min.jpg)
+<!-- User Research (Surveys) -->
 
-#### User Research (Surveys)
+<h5 id="user-research-surveys">User Research (Surveys)</h5>
 
-The previously mentioned Q&A only revealed a partial understanding of Novohit's expectations as a company. I needed more feedback from customers and users themselves to understand how the company's audience felt about their website.
+<p>The previously mentioned Q&A only revealed a partial understanding of Novohit's expectations as a company. I needed more feedback from customers and users themselves to understand how the company's audience felt about the Novohit website.
 
-Working with limited resources, I drafted a Google Survey that introduced respondees to **[Novohit's old website](#sitemap-novohit-old)** and asked them to answer a series of questions regarding their initial impressions.
+Working with limited resources, I drafted a Google Survey that introduced respondees to <b><a href="#sitemap-novohit-old">Novohit's old website</a></b> and asked them to answer a series of questions regarding their initial impressions. The feedback assisted us with making informed decisions about the proposed user experience and allowed Novohit to reflect on its customer impressions.</p>
 
-![](assets/research-user-surveys-min.jpg)
+<img src="assets/research-user-surveys-min.jpg" alt="user surveys (research)" />
 
 #### User Research (Personas)
 
