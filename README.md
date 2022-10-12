@@ -33,8 +33,17 @@
             <ul>
                 <li><a href="#industry-analysis">Industry Analysis</a></li>
                 <li><a href="#novohit-q-and-a">Novohit Q&A</a></li>
+                <li><a href="#user-research-surveys">User Research (Surveys)</a></li>
+                <li><a href="#user-research-personas">User Research (Personas)</a></li>
+                <li><a href="#competitor-analysis">Competitor Analysis</a></li>
             </ul>
-            <li><a href="#plan">Plan</a></li>
+            <li>
+                <a href="#plan">Plan</a>
+                <ul>
+                    <li><a href="#user-flow-proposal">User Flow (Proposal)</a></li>
+                    <li><a href="#wireframe">Wireframe</a></li>
+                </ul>
+            </li>
             <li><a href="#design">Design</a></li>
         </ul>
     </li>
@@ -150,9 +159,9 @@ I spent a week familiarizing myself with the <b>who</b>, the <b>what</b>, and th
     <li>Learn more about the company's product and target audience</li>
 </ul>
 
-<p>This was an introspective exercise to help me understand Novohit's vision and resolve future concerns in hindsight. My primary concern was feature creep and I wanted to define a set of guidelines before getting started. While there were many decisions made during the development phase, I created a future-proof system to coordinate with any priority shifts or newly generated ideas.
+<p>This was an introspective exercise to help me understand Novohit's vision and resolve development issues in hindsight. My primary concern was feature creep and I wanted to define a set of guidelines before getting started. While there were many important decisions during the development phase, I adopted future-proof design practices to coordinate with any priority shifts or newly generated ideas.
 
-For example, midway through the design phase of Novohit's product page, I was asked to align the company's assets with their recently updated branding scheme. At the time, I leveraged Figma as my design program of choice and was learning how to create scalable design systems while applying these practices during the project's development. I was able to apply variations and change global styles to update the existing designs in just a few clicks, instead of having to comb through every custom component and update styles individually.</p>
+For instance, when the company asked me to update the website in its development stage to align with their administrative portal's recent design changes, I was able to easily apply variations and change global styles in just a few clicks. The decision to leverage Figma as my design program of choice allowed me to create a scalable design system, collaborative environment, and the flexibility to meet the company's needs.</p>
 
 <img src="assets/research-q-and-a-min.jpg" alt="Novohit Q&A" />
 
@@ -162,37 +171,58 @@ For example, midway through the design phase of Novohit's product page, I was as
 
 <p>The previously mentioned Q&A only revealed a partial understanding of Novohit's expectations as a company. I needed more feedback from customers and users themselves to understand how the company's audience felt about the Novohit website.
 
-Working with limited resources, I drafted a Google Survey that introduced respondees to <b><a href="#sitemap-novohit-old">Novohit's old website</a></b> and asked them to answer a series of questions regarding their initial impressions. The feedback assisted us with making informed decisions about the proposed user experience and allowed Novohit to reflect on its customer impressions.</p>
+Working with limited resources, I drafted a Google Survey that introduced respondents to <b><a href="#sitemap-novohit-old">Novohit's old website</a></b> and asked them to answer a series of questions regarding their initial impressions. The feedback assisted us with making informed decisions about the proposed user experience and allowed Novohit to reflect on its customer impressions before moving forward.</p>
 
-<img src="assets/research-user-surveys-min.jpg" alt="user surveys (research)" />
+<img src="assets/research-user-surveys-min.jpg" alt="user research (surveys)" />
 
-#### User Research (Personas)
+<!-- User Research (Personas) -->
 
-I continued my research by drafting personas from the information in my initial Q&A with Novohit. While the portraits in the below image are fictional, the information represented in each card is indicative of Novohit's existing clientele and incoming customers from the U.S.
+<h4 id="user-research-personas">User Research (Personas)</h4>
 
-![](assets/research-user-personas-min.jpg)
+<p>User stories and scenarios help UX developers better understand who users are and ensure that features have meaningful impact on audiences. The primary methods for representing users accurately include:</p>
 
-#### Competitor Analysis
+<ul>
+    <li>Identifying information to develop user personas</li>
+    <li>Observing users through usability studies to implement design patterns</li>
+</ul>
 
-The final step in my research process was a simple competitive analysis of existing ERP developers to see how others solve similar problems. My challenge was to create or adopt a solution for managing the plethora of information that hindered Novohit's antiquated website navigation. The company wanted a more fundamental method for organizing and presenting information to new and existing customers which we solved with a single-page application.
+<p>I continued my research by drafting personas from the information gathered in my initial Q&A with Novohit. While the portraits in the below image are fictional, the information represented in each card is indicative of Novohit's existing clientele and incoming customers from the U.S. The conclusion drawn from this exercise helped us narrow down specific demographic needs and prepare the website to service English, Italian, and Spanish speaking audiences.</p>
 
-![](assets/research-competitive-analysis-min.jpg)
+<img src="assets/research-user-personas-min.jpg" alt="user research (personas)" />
 
-The below image represents my competitor research and includes observations about other sites' user interfaces and experience.
+<!-- Competitor Analysis -->
 
-![](assets/research-competitive-analysis-example-min.png)
+<h4 id="competitor-analysis">Competitor Analysis</h4>
 
-<!-- plan -->
+<p>The final step in my research process was a rudimentary competitive analysis of existing ERP developers to see how others solve similar problems. My challenge was to create or adopt a solution for managing the plethora of information that hindered Novohit's antiquated website navigation. The company wanted a more fundamental method for organizing and presenting information to new and existing customers which we solved with a single-page application and <a href="#product-catalog"><b>product catalog</b></a>.</p>
+
+<img src="assets/research-competitive-analysis-min.jpg" alt="competitor analysis" />
+
+<p>The below images represent an example my competitor research and include observations of SAP's method for creating user interfaces and navigational flow. I was able to draft my own sitemap for <a href="#sitemap-novohit-new"><b>organizing Novohit's services and products</b></a> into a digestible format that reflects the company's expertise.</p>
+
+<img src="assets/research-competitive-analysis-example-min.jpg" alt="competitor analysis example" />
+
+<img src="assets/sitemap-sap-min.jpg" alt="SAP sitemap" />
+
+<!-- Plan -->
 
 <h3 id="plan">📅 Plan</h3>
 
-Following the project's research phase, it was time to focus on user experience. My initial introspection with Novohit helped to identify two key objectives that influenced the proposal pictured below — to be accessibile and approachable.
+<h4 id="user-flow-proposal">User Flow (Proposal)</h4>
 
-Novohit wanted more customer outreach to users on tablets and mobile phones, as well as a design that would assist new customers with finding a product for their specific use case. This would assure existing clients could find the information they need while helping new clients identify useful services that Novohit provides.
+Following the project's research phase, it was time to focus on user experience. My initial introspection with Novohit helped to identify two key objectives that influenced the proposal pictured below — to be accessible and approachable.
 
-![](assets/novohit-proposal-user-flow-min.png)
+Novohit wanted more customer outreach to users on tablets and mobile phones, as well as a design that would assist new customers with finding a product for their specific use case. This would ensure existing clients could find the information they needed while helping new clients identify useful services that Novohit offers.
 
-<!-- create -->
+<blockquote><b>Note:</b> Some features, such as the "ERP Advisor", did not make it to production either due to time, priority, or financial constraints.</blockquote>
+
+<img src="assets/novohit-proposal-user-flow-min.png" alt="user flow (proposal)" />
+
+<img src="assets/sitemap-novohit-new-min.jpg" alt="Novohit sitemap (proposal)" />
+
+<h4 id="wireframe">Wireframe</h4>
+
+<!-- Create -->
 
 <h3 id="create">✏️ Create</h3>
 
