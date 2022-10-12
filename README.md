@@ -122,7 +122,7 @@
 
 <!-- Industry Analysis -->
 
-<h5 id="industry-analysis">Industry Analysis</h5>
+<h4 id="industry-analysis">Industry Analysis</h4>
 
 <p>Since this was my first opportunity exploring the business space of ERP systems, I decided to do preliminary research before having an in-depth conversation with Novohit. Approaching the situation with pre-existing knowledge would create realistic expectations for the client and I moving forward.
 
@@ -140,7 +140,7 @@ I spent a week familiarizing myself with the <b>who</b>, the <b>what</b>, and th
 
 <!-- Novohit Q&A -->
 
-<h5 id="novohit-q-and-a">Novohit Q&A</h5>
+<h4 id="novohit-q-and-a">Novohit Q&A</h4>
 
 <p>Following my initial research, I prepared a Q&A discussion with Novohit to:</p>
 
@@ -158,7 +158,7 @@ For example, midway through the design phase of Novohit's product page, I was as
 
 <!-- User Research (Surveys) -->
 
-<h5 id="user-research-surveys">User Research (Surveys)</h5>
+<h4 id="user-research-surveys">User Research (Surveys)</h4>
 
 <p>The previously mentioned Q&A only revealed a partial understanding of Novohit's expectations as a company. I needed more feedback from customers and users themselves to understand how the company's audience felt about the Novohit website.
 
