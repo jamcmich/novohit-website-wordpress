@@ -15,18 +15,6 @@
     <li><a href="#outcomes">Outcomes</a></li>
     <li><a href="#technologies-used">Technologies Used</a></li>
     <li>
-        <a href="#screenshots">Screenshots</a>
-        <ul>
-            <li><a href="#landing-page">Landing Page</a></li>
-            <li><a href="#product-catalog">Product Catalog</a></li>
-            <li><a href="#company-services">Company Services</a></li>
-            <li><a href="#company-values">Company Values</a></li>
-            <li><a href="#footer">Footer</a></li>
-            <li><a href="#support-page">Support Page</a></li>
-            <li><a href="#contact-page">Contact Page</a></li>
-        </ul>
-    </li>
-    <li>
         <a href="#design-process">Design Process</a>
         <ul>
             <li><a href="#research">Research</a></li>
@@ -36,6 +24,7 @@
                 <li><a href="#user-research-surveys">User Research (Surveys)</a></li>
                 <li><a href="#user-research-personas">User Research (Personas)</a></li>
                 <li><a href="#competitor-analysis">Competitor Analysis</a></li>
+                <li><a href="#novohit-analysis">Novohit Analysis</a></li>
             </ul>
             <li>
                 <a href="#plan">Plan</a>
@@ -45,14 +34,20 @@
                     <li><a href="#prototype-iteration-2">Prototype (Iteration 2)</a></li>
                 </ul>
             </li>
-            <li><a href="#design">Design</a></li>
+            <li>
+                <a href="#create">Create</a>
+                    <ul>
+                        <li><a href="#landing-page">Landing Page</a></li>
+                        <li><a href="#product-catalog">Product Catalog</a></li>
+                        <li><a href="#company-services">Company Services</a></li>
+                        <li><a href="#company-values">Company Values</a></li>
+                        <li><a href="#footer">Footer</a></li>
+                        <li><a href="#support-page">Support Page</a></li>
+                        <li><a href="#contact-page">Contact Page</a></li>
+                    </ul>
+            </li>
         </ul>
-    </li>
-    <li>
-        <a href="#additional-information">Additional Information</a>
-        <ul>
-            <li><a href="#code-examples">Code Snippets</a></li>
-        </ul>
+        <li><a href="future-considerations">Future Considerations</a></li>
     </li>
 </ul>
 
@@ -61,6 +56,8 @@
 <h3 id="live-demo">🔍 Live Demo</h3>
 
 <a href="https://www.novohit.com/" target="_blank">https://www.novohit.com/</a>
+
+<blockquote><b>Note:</b> Some aspects of Novohit's website have changed since my collaboration with them over a year ago and may continue to change. The screenshots in this documentation are my own and were recorded during the project's development phase.</blockquote>
 
 <!-- Overview -->
 
@@ -96,31 +93,6 @@
 <h3 id="technologies-used">🧰 Technologies Used</h3>
 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" /> <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=Elementor&logoColor=white" alt="Elementor" />
-
-<!-- Screenshots -->
-
-<h3 id="screenshots">🖥️ Screenshots</h3>
-
-<h4 id="landing-page">Landing Page</h4>
-<img src="assets/page-landing-min.jpg" alt="landing page" />
-
-<h4 id="product-catalog">Product Catalog</h4>
-<img src="assets/product-catalog-min.jpg" alt="product catalog" />
-
-<h4 id="company-services">Company Services</h4>
-<img src="assets/company-services-min.jpg" alt="company services" />
-
-<h4 id="company-values">Company Values</h4>
-<img src="assets/company-values-min.jpg" alt="company values" />
-
-<h4 id="footer">Footer</h4>
-<img src="assets/footer-min.jpg" alt="footer" />
-
-<h4 id="support-page">Support Page</h4>
-<img src="assets/page-support-min.jpg" alt="support page" />
-
-<h4 id="contact-page">Contact Page</h4>
-<img src="assets/page-contact-min.jpg" alt="contact page" />
 
 <!-- Design Process -->
 
@@ -205,6 +177,22 @@ Working with limited resources, I drafted a Google Survey that introduced respon
 
 <img src="assets/sitemap-sap-min.jpg" alt="SAP sitemap" />
 
+<!-- Novohit Analysis -->
+
+<h4 id="novohit-analysis">Novohit Analysis</h4>
+
+Novohit's previous website was observed similar to the competitor analysis to identify user experience and interface pain points that could be improved upon or revised.
+
+<img src="assets/novohit-old-landing-page-analysis-min.jpg" alt="Novohit landing page analysis" />
+
+Novohit's previous sitemap.
+
+<img src="assets/sitemap-novohit-old-min.jpg" alt="Novohit previous sitemap" />
+
+Novohit's newly proposed sitemap for organization and information clarity.
+
+<img src="assets/sitemap-novohit-new-min.jpg" alt="Novohit new sitemap" />
+
 <!-- Plan -->
 
 <h3 id="plan">📅 Plan</h3>
@@ -221,8 +209,6 @@ Novohit wanted more customer outreach to users on tablets and mobile phones, as 
 
 <img src="assets/novohit-proposal-user-flow-min.png" alt="user flow" />
 
-<img src="assets/sitemap-novohit-new-min.jpg" alt="Novohit sitemap" />
-
 <!-- Prototype (Iteration 1) -->
 
 <h4 id="prototype-iteration-1">Prototype (Iteration 1)</h4>
@@ -238,53 +224,49 @@ Novohit wanted more customer outreach to users on tablets and mobile phones, as 
 
 <h4 id="prototype-iteration-2">Prototype (Iteration 2)</h4>
 
-<p>The second prototype integrated Novohit's brand alterations with my previous design. It was necessary to update the website's color scheme to align with the new branding standards, and decisions were made to adopt a traditional top navigation bar. Below is a snippet of the second prototype's landing page and a preview of the final <a href="#product-catalog"><b>product catalog</b></a> in its development phase.</p>
+<p>The second prototype integrated Novohit's brand alterations with my previous design. It was necessary to update the website's color scheme to align with the new branding standards, and decisions were made to adopt a traditional top navigation bar. Below is a snippet of the second prototype's landing page and a preview of the <a href="#product-catalog"><b>product catalog</b></a> in its development phase.
+
+The product catalog's design was largely influenced by the aforementioned planning phase as shown in the <a href="#card-layout"><b>card layout</b></a> below, emphasizing the application of usability research.</p>
 
 <img src="assets/novohit-website-mockup-2-min.jpg" alt="single-page application mockup (iteration 2)" />
 <img src="assets/novohit-product-catalog-prototype-min.jpg" alt="product catalog prototype" />
+<img id="card-layout" src="assets/diagram-industries-min.jpg" alt="industries diagram" />
 
 <!-- Create -->
 
 <h3 id="create">✏️ Create</h3>
 
-<!-- Code Examples -->
+<p>The final designs were transposed to WordPress using Elementor as a low-code editor. Some elements, such as the navigation bar and product catalog, were hard coded due to limitations with the platform's preset components.
 
-<h3 id="code-examples">📸 Code Examples</h3>
+While I'm unable to share snippets of code related to the final product, I plan to recreate the website as a personal project using React.js or Next.js in the near future. Below are screenshots from the live website which you can visit at <a href="https://www.novohit.com/" target="_blank"><b>https://www.novohit.com/</b></a>.</p>
 
-#### Subheading
+<h4 id="landing-page">Landing Page</h4>
+<img src="assets/page-landing-min.jpg" alt="landing page" />
 
-![]()
+<h4 id="product-catalog">Product Catalog</h4>
+<img src="assets/product-catalog-min.jpg" alt="product catalog" />
 
-<!-- Additional Screenshots -->
+<h4 id="company-services">Company Services</h4>
+<img src="assets/company-services-min.jpg" alt="company services" />
 
-<h3 id="additional-screenshots">🔖 Additional Screenshots</h3>
+<h4 id="company-values">Company Values</h4>
+<img src="assets/company-values-min.jpg" alt="company values" />
 
-<h4 id="sitemap-novohit-old">Novohit Sitemap (Old)</h4>
+<h4 id="footer">Footer</h4>
+<img src="assets/footer-min.jpg" alt="footer" />
 
-Preview of Novohit's old website.
+<h4 id="support-page">Support Page</h4>
+<img src="assets/page-support-min.jpg" alt="support page" />
 
-![](assets/sitemap-novohit-old-min.png)
+<h4 id="contact-page">Contact Page</h4>
+<img src="assets/page-contact-min.jpg" alt="contact page" />
 
-<h4 id="sitemap-novohit-new">Novohit Sitemap (New)</h4>
+<!-- Future Considerations -->
 
-Preview of a proposed sitemap revision.
+<h3 id="id="future-considerations"">💬 Future Considerations</h3>
 
-![](assets/sitemap-novohit-new-min.png)
+<p>At the time of writing this, it's been over a year since the project ended and there's an incredible amount of experience and technique I've improved upon that would drastically change my approach. My responsibility was to understand the project at all levels, learning and documenting the website’s general features, comprehending industry specific needs, and implementing information in a meaningful way to consider a variety of demographics — all while taking into consideration best practices such as: clean and reusable code, minimal dependency on third party libraries, modern usability patterns, and scalable designs.
 
-<h4>Novohit Landing Page (Old)</h4>
+I recently had a chance to speak to the CEO in-person and he shared how the project garnered new clients for Novohit and allowed them to build on the foundation I created for their website. He shared his appreciation for my ability to grasp project requirements on-the-go, even if they involved different skills, which is an advantage when creating projects with certain complexity. He also commended my attitude towards learning and maintaining a detail-oriented mindset which expressed itself in my work. 
 
-Preview of Novohit's previous landing page.
-
-![](assets/novohit-old-landing-page-analysis-min.png)
-
-<h4>Novohit Services</h4>
-
-Card diagram of Novohit's services.
-
-![](assets/diagram-products-min.png)
-
-<h4>Novohit Industries</h4>
-
-Card diagram of Novohit's clientele by industry.
-
-![](assets/diagram-industries-min.png)
+Overall, I'm proud of my accomplishments as a UI/UX Developer delivering a product that helped Novohit break into a new market and hope to develop even greater experiences moving forward in my career.</p>
